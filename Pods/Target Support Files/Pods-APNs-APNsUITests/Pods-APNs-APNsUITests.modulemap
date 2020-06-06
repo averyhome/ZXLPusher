@@ -1,0 +1,6 @@
+framework module Pods_APNs_APNsUITests {
+  umbrella header "Pods-APNs-APNsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
